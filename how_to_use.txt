@@ -72,7 +72,7 @@ Adds another guy to the same group
 
 ==If you want rapid adding, then you can set the delay time to 0 It means Astra won't wait while adding users
 But chances of getting peer flood error from Telegram is more==
-I have updated the README.md, you can see the recent issue that I am facing
+
 
 Recommended delays are
 
