@@ -3,7 +3,8 @@
 
 # Notice 📣
 
-<p align='center'><b> This is a stable version. Report for any errors in our <a href='https://telegram.me/Techmedies_Hub'> Telegram Group </a>
+<p align='center'><b> Improvements have been currently stopped due to unavoidable circumstances. <br> You may face issues. Use it at your own risk. <br>
+  Improvements will be resumed soon
   </p>
 
 # Usage 🧰
