@@ -171,9 +171,9 @@ approx_members_count = 0
 for acc in to_use:
     stop = index + 60
     c = TelegramClient(f'sessions/{acc[0]}', 3910389 , '86f861352f0ab76a251866059a6adbd6')
-    c.start()
+    print(f'{plus}{grey} User: {cy}{acc_name}{lg} -- {cy}Starting session... ')
+    c.start(acc[0])
     acc_name = c.get_me().first_name
-    print(f'{plus}{grey} User: {cy}{acc_name}{lg} -- {cy}Session started ')
     try:
         if '/joinchat/' in scraped_grp:
             g_hash = scraped_grp.split('/joinchat/')[1]
