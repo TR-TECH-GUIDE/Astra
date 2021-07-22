@@ -153,7 +153,7 @@ if choice == 0:
 else:
     target = str(input(f'{INPUT}{cy} Enter private group link: {r}'))
 print(f'{grey}_'*50)
-status_choice = str(input(f'{INPUT}{cy} Do you wanna add active members?[y/n]: {r}'))
+#status_choice = str(input(f'{INPUT}{cy} Do you wanna add active members?[y/n]: {r}'))
 to_use = [x for x in accounts[:number_of_accs]]
 for l in to_use: accounts.remove(l)
 with open('vars.txt', 'wb') as f:
@@ -227,11 +227,6 @@ for acc in to_use:
             print(f'{error}{r} Too many Peer Flood Errors! Closing session...')
             break
         try:
-            if status_choice == 'y':
-                if not user.status == UserStatusRecently():
-                    continue
-            #added_users.append(user)
-            #user_to_add = c.get_entity(user['id'])
             if choice == 0:
                 c(InviteToChannelRequest(target_details, [user]))
             else:
