@@ -1,4 +1,4 @@
-# Astra 1.0
+# Astra 1.2
 <p align='center'><b>Cross Platform Telegram Members Scraping and Adding Toolkit[Unmaintained]</b></p>
 
 # Notice 📣
