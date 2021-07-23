@@ -1,10 +1,10 @@
 # Astra 1.2
-<p align='center'><b>Cross Platform Telegram Members Scraping and Adding Toolkit[Unmaintained]</b></p>
+<p align='center'><b>Cross Platform Telegram Members Scraping and Adding Toolkit</b></p>
 
 # Notice 📣
 
-<p align='center'><b> Improvements have been currently stopped due to unavoidable circumstances. <br> You may face issues. Use it at your own risk. <br>
-  Improvements will be resumed soon
+<p align='center'><b> Improvements have been currently stopped due to unavoidable circumstances. <br>
+   Will be resumed soon
   </p>
 
 # Usage 🧰
