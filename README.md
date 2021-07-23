@@ -18,7 +18,7 @@
 # Features ♨️
 
 * No need of API Id and API hash- It requires only phone numbers
-* Adds 60 members on an average[Only when you choose to add all members]
+* Adds 60 members on an average
 * Adds members by ID, even if they don't have usernames.
 * Multi-session adding 
 * Adds members in high speed[Stable]
