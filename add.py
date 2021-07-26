@@ -230,7 +230,8 @@ for acc in to_use:
             if choice == 0:
                 c(InviteToChannelRequest(target_details, [user]))
             else:
-                c(AddChatUserRequest(target_details.id, user, 42))
+                if not target_details.megagroup: c(AddChatUserRequest(target_details.id, user, 42))
+                else: c(InviteToChannelRequest(target_details, [user]))
             user_id = user.first_name
             target_title = target_entity.title
             print(f'{plus}{grey} User: {cy}{acc_name}{lg} -- {cy}{user_id} {lg}--> {cy}{target_title}')
