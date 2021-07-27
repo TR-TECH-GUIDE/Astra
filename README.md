@@ -7,7 +7,7 @@
 * Then you need to store your accounts using `manager.py`
 * Then, scrape and add members using `add.py`
 
-<b> For full tutorial and important information, refer to ,<a href='https://github.com/Cryptonian007/Astra/blob/main/how_to_use.txt'>how_to_use.txt</a> </b>
+<b> For full tutorial, refer to <a href='https://github.com/Cryptonian007/Astra/blob/main/how_to_use.txt'>how_to_use.txt</a> </b>
 
 # Features ♨️
 
