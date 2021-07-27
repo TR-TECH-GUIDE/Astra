@@ -1,12 +1,6 @@
 # Astra 1.2
 <p align='center'><b>Cross Platform Telegram Members Scraping and Adding Toolkit</b></p>
 
-# Notice 📣
-
-<p align='center'><b> Improvements have been currently stopped due to unavoidable circumstances. <br>
-   Will be resumed soon
-  </p>
-
 # Usage 🧰
 
 * You need to install requirements first - `pip install -r requirements.txt`
